@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25.
 
+[![Build status](https://dev.azure.com/achrafbenalaya/Intern-Project/_apis/build/status/Front%20end%20angular%20project%201)](https://dev.azure.com/achrafbenalaya/Intern-Project/_build/latest?definitionId=11)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
